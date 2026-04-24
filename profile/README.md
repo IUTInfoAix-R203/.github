@@ -1,4 +1,4 @@
-# <img src="../assets/logo.png" alt="class logo" class="logo" width="120"/> R2.03 - Qualité de développement
+# Refonte 2026 - Git, TDD, Kata, Refactoring
 
 **BUT Informatique - 1ère année (S2) - IUT d'Aix-Marseille**
 
